@@ -7,6 +7,10 @@
 2. Admin table overview (/admin/urls)
    Page where Admin can see table of most popular domain searches
 
+### Live APP URL
+
+- https://tiny.cleverapps.io
+
 ### Requirements
 
 - NodeJS

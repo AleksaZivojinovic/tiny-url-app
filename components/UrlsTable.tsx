@@ -36,7 +36,7 @@ const UrlsTable = ({ urls }) => {
 							</td>
 							<td>
 								{url.count24Hours}
-								{url.count24Hours > 1 ? 'searches' : 'search'}
+								{url.count24Hours > 1 ? ' searches' : ' search'}
 							</td>
 						</tr>
 					)
