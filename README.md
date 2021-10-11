@@ -7,6 +7,20 @@
 2. Admin table overview (/admin/urls)
    Page where Admin can see table of most popular domain searches
 
+### Requirements
+
+- NodeJS
+- NPM
+- MongoDB
+
+### Instrucions
+
+- To run in DEV mode
+  npm run dev
+- To run in PRODUCTION mode
+  npm i
+  npm start
+
 ### Questions
 
 1.  What is a URL shortening system?

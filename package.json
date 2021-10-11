@@ -8,7 +8,7 @@
 		"build:server": "tsc --build tsconfig.server.json",
 		"build:project": "next build && tsc --build tsconfig.server.json",
 		"build": "npm-run-all clean build:project",
-		"postinstall": "npm-run-all clean build:project",
+		"postinstall": "npm-run-all clean build",
 		"start": "node ./dist/server.js",
 		"dev": "NODE_ENV=development npm-run-all clean build:server start",
 		"clean": "rimraf dist && rimraf .next"
