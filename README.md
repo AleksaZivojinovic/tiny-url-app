@@ -1,5 +1,12 @@
 # TinyUrl
 
+### Pages
+
+1. Public end user page (/)
+   Page where user can create short URLs
+2. Admin table overview (/admin/urls)
+   Page where Admin can see table of most popular domain searches
+
 ### Questions
 
 1.  What is a URL shortening system?
