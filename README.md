@@ -40,4 +40,3 @@
     5.Try to suggest some ideas for advanced features.
     In the next features, we could allow customers to choose between our domains base, and also to add some of the parts on the URL that could be customized. We could add registration of the users, so they would have an overview of their shortened URLs. To add authentication and authorization. In Admin panel to add pagination, searching, filtering, and sorting, alongside with some overall statistics.
 
-**My question:** Regarding the tracking of the most popular domains, it’s not quite clear what needs to be tracked: the times that user created a short URL for a single domain or the times that the user clicked on our short URL and being redirected. I decided to track the first case, but the tracking process for the second would be the same or similar.
